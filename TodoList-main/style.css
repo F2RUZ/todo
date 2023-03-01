@@ -1,0 +1,11 @@
+.btn{
+    width: 120px !important;
+}
+p{
+    color: blue;
+    font-family: monospace;
+    font-size: 25px;
+}
+.none{
+    display: none;
+}
